@@ -1946,6 +1946,7 @@ PRODUCT_PACKAGES += \
     daxService \
     embmslibrary \
     qcrilhook \
+    qti-telephony-common \
     vendor.qti.data.factory-V2.0-java \
     vendor.qti.data.factory-V2.1-java \
     vendor.qti.hardware.data.cne.internal.api-V1.0-java \
